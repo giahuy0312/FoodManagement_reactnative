@@ -1,0 +1,1 @@
+global.id_user = 0;
